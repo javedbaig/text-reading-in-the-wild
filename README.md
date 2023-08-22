@@ -1,6 +1,6 @@
 # text-reading-in-the-wild
 ## Dissertation Project 
-Topic - Text Reading in the Wild 
+Topic - Text Reading in the Wild: 
 A significant portion of the study revolves around rigorous evaluations. Using a range of datasets, the
 motive is to understand the model's behavior under different circumstances. These evaluations serve
 a dual purpose. Firstly, they highlight the strengths of the model, particularly in controlled environments.
